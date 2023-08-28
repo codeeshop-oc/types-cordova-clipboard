@@ -1,0 +1,23 @@
+{
+    "name": "@types/cordova-clipboard",
+    "version": "1.4.0",
+    "description": "TypeScript definitions for Cordova Clipboard",
+    "homepage": "https://github.com/codeeshop-oc/types-cordova-clipboard/tree/master/",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Code-E-Shop",
+            "url": "https://codeeshop.com"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/codeeshop-oc/types-cordova-clipboard.git",
+        "directory": "types/cordova"
+    },
+    "scripts": {},
+    "dependencies": {},    
+    "typeScriptVersion": "5.0"
+}
